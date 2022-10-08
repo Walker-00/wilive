@@ -20,8 +20,8 @@ Speed and Frame Rate is may be depend on your machine.
 If you found some issue please report me.
 
 # Contact
-FB: https://facebook.com/walker.fbi
-Mail: walker@wiwow.tk, w000alker@gmail.com
+FB: https://facebook.com/walker.fbi<br>
+Mail: walker@wiwow.tk, w000alker@gmail.com<br>
 Google Chat: w000alker@gmail.com
 
 # Record
