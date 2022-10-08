@@ -16,6 +16,13 @@ git clone https://github.com/Walker-00/wilive && cd wilive && pip install -r req
 
 # Note
 Speed and Frame Rate is may be depend on your machine.
+<br>
+If you found some issue please report me.
+
+# Contact
+FB: https://facebook.com/walker.fbi
+Mail: walker@wiwow.tk, w000alker@gmail.com
+Google Chat: w000alker@gmail.com
 
 # Record
 
