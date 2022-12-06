@@ -24,7 +24,7 @@ FB: https://facebook.com/walker.fbi<br>
 Mail: walker@wiwow.tk, w000alker@gmail.com<br>
 Google Chat: w000alker@gmail.com
 
-# Record
+# Old Record with python
 
 https://user-images.githubusercontent.com/85013114/194708702-3a7828e7-11a1-4901-a914-d0cf81b322f0.mp4
 
