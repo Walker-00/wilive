@@ -1,24 +1,23 @@
-#Rust
 # wilive
 Video to Live Wallpaper for gnu/linux operating system!!
 100% Work on Every GNU/Linux os.<br>
-Tasted on Arch + Xmonad Window Manager.
+Tasted on Arch + Xmonad Window Manager.<br>
+Written in Rust
 
 # Require
 ```
-python3
 opencv
 ```
 
-# Installion
+# Installion & run bin
 ```
-git clone https://github.com/Walker-00/wilive && cd wilive && pip install -r requirements.txt && python3 wilive.py
+# if you are not already installed opencv in your machine then install it!
+# paru -S opencv to get opencv from arch user repo or install with something
+git clone https://github.com/Walker-00/wilive && cd wilive && cd bin && chmod +x wilive && ./wilive /file/path [loop, no]
 ```
 
 # Note
-Speed and Frame Rate is may be depend on your machine.
-<br>
-If you found some issue please report me.
+Gif image format is recommanded if you wanna use video format, 30 or lower framerate is recommanded!
 
 # Contact
 FB: https://facebook.com/walker.fbi<br>
