@@ -12,7 +12,7 @@ fn main() {
     if args.len() < 3 {
         eprintln!("Not Enought Args!\nUsage: \n     wilive [FullFilePath without [~, $USER, .., .]] [loop, no]");
         std::process::exit(1);
-    } else if args[2] != String::from("loop") || args[2] != String::from("no") {
+    } else if args[2] != String::from("loop") && args[2] != String::from("no") {
         eprintln!(
             "Unknown Option!\nloop        loop forever!\nno          end when video/gif is end!"
         );
